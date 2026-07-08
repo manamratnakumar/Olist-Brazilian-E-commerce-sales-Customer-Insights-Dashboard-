@@ -1,140 +1,106 @@
 Executive Dashboard
 
 Dashboard Overview: 
-The Executive Dashboard provides a centralized view of retail sales performance by consolidating key business metrics into a single interactive report. 
-It enables business leaders to monitor revenue, customer activity, order performance, sales trends, supporting faster and more informed strategic decision-making.
+The Executive Summary Dashboard provides a high-level overview of the company's sales performance, customer activity, and operational KPIs. It enables executives to monitor business health, identify trends, and make strategic decisions through interactive visualizations.
 
-Dashboard Purpose:
-The purpose of this dashboard is to provide executives and business stakeholders with a comprehensive overview of organizational performance, helping them identify growth opportunities,
-monitor operational KPIs, and evaluate historical sales trends through interactive visualizations.
+Business Problem:
+Senior management lacked a centralized reporting system to monitor overall business performance. Decision-makers needed a dashboard that provides instant visibility into sales, customers, orders, and product performance to support strategic planning.
 
 Business Objectives:
-Monitor overall sales performance using executive KPIs.
-Analyze customer purchasing activity and order volume.
-Track monthly sales trends over the reporting period.
-Compare current sales performance with historical trends.
+Monitor overall sales performance.
+Track key business KPIs.
+Analyze monthly sales trends.
+Compare current sales with previous year.
+Identify top-performing product categories.
+Monitor sales across different cities.
 
-Data Source:
-Dataset:Brazalian E-Commerece public Dataset by Olist
-Reporting Period: 2016 – 2018
+Business Questions & Insights
 
-Dashboard Features:
-Executive KPI Cards
-Monthly Sales Trend Analysis
-Previous Year Sales Comparison
-Product Category Performance Analysis
-Product Category Contribution (Donut Chart)
-Interactive Year Filter
-Customer City Slicer
+Q1. What is the overall business performance?
 
-Business KPI Highlights:
-Total Sales: 13.59M – Represents the total revenue generated during the reporting period.
-Total Orders: 99K – Indicates the total number of completed customer transactions.
-Total Customers: 99K – Reflects the size of the active customer base.
-Total Quantity Sold: 113K – Shows the total volume of products sold.
-Average Sales per Order: 137.75 – Measures the average revenue earned per customer order.
+Insight:
 
-Business Analysis:
-1. Overall Business Performance
-Key Insight
-The business generated 13.59M in revenue through 99K customer orders, serving 99K unique customers while selling 113K products.
+Total Sales: 13.59M
+Total Orders: 99K
+Total Customers: 99K
+Average Sales per Order: 137.75
 
-Business Interpretation
-The business maintained a strong sales volume throughout the reporting period. The average order value indicates consistent purchasing behavior, suggesting customers continue to make 
-meaningful transactions.
+Business Action:
 
-Strategic Recommendation
-Focus on customer retention to sustain revenue growth.
-Implement cross-selling and upselling strategies to increase average order value.
-Continue monitoring executive KPIs to support proactive decision-making.
+Continue monitoring executive KPIs to ensure business growth and identify performance gaps early.
 
-2. Monthly Sales Trend
-Key Insight
-Monthly sales demonstrate a gradual decline over the reporting period.
+Q2. Is sales increasing or decreasing over time?
 
-Business Interpretation
-The declining trend suggests slowing sales momentum rather than isolated monthly fluctuations. Additional analysis is required to determine whether this pattern is influenced by 
-seasonality, customer retention, pricing strategies, or external market conditions.
+Insight:
 
-Strategic Recommendation
-Monitor monthly sales performance against business targets.
-Review promotional effectiveness during low-performing periods.
+Monthly sales indicate seasonal fluctuations with noticeable declines during certain months.
 
-3. Historical Sales Comparison
-Key Insight
-Historical sales exhibit a similar downward trend, indicating that performance has gradually weakened over time.
+Business Action:
 
-Business Interpretation
-Comparing historical sales provides valuable context for evaluating long-term business performance. Consistent declines may indicate changing customer behavior or evolving market conditions that require strategic attention.
+Plan promotional campaigns during low-performing periods to stabilize sales.
 
-Strategic Recommendation
-Perform Year-over-Year performance analysis regularly.
-Investigate customer retention and repeat purchase behavior.
+Q3. Which product categories contribute the most revenue?
 
-4. Product Category Performance
-Key Insight
-Several product categories, including Beleza & Saúde, Relógios Presentes, Cama Mesa Banho, Esporte Lazer, and Informática Acessórios, contribute significantly to total revenue.
+Insight:
 
-Business Interpretation
-Sales are concentrated within a limited number of high-performing categories. Optimizing these categories while improving lower-performing segments can strengthen overall business performance.
+Beauty & Health, Sports & Leisure, Watches & Gifts, and Home & Living generate the highest revenue.
 
-Strategic Recommendation
-Prioritize inventory for high-performing categories.
-Optimize pricing strategies for underperforming products.
+Business Action:
 
-5. Product Category Contribution
-Key Insight
-The product category distribution highlights that a relatively small number of categories generate a significant share of total sales.
+Prioritize inventory planning and marketing investments for high-performing categories.
 
-Business Interpretation
-Understanding category contribution enables better inventory planning, marketing prioritization, and resource allocation while identifying opportunities for category expansion.
+Q4. Which cities contribute the highest sales?
 
-Strategic Recommendation
-Continue investing in top-performing categories.
-Improve visibility of lower-performing categories through targeted promotions.
+Insight:
 
-Summary of Findings:
-The business generated 13.59M in total sales.
-Approximately 113K products were sold during the reporting period.
-A total of 99K customer orders were completed.
-The business served 99K unique customers.
-Monthly sales indicate a gradual downward trend requiring further business investigation.
-Revenue is concentrated among a limited number of product categories.
-Historical sales trends provide valuable insights for long-term strategic planning.
+Sales vary significantly across customer locations, highlighting high-performing markets.
 
-Skills Demonstrated:
-Power BI Dashboard Development
-Power Query (Data Transformation)
-Data Modeling (Star Schema)
-DAX Measure Development
-KPI Design & Performance Monitoring
-Sales Trend Analysis
-Product Category Analysis
-Interactive Dashboard Design
-Business Intelligence Reporting
-Executive Reporting
-Data Storytelling
+Business Action:
 
-Business Value
-This dashboard provides executives with a centralized reporting solution for monitoring sales performance, customer activity, and product category contribution.
-By combining executive KPIs with historical trend analysis, the dashboard enables faster decision-making, supports performance monitoring, and helps identify opportunities to improve 
-revenue growth, customer engagement, and operational efficiency.
+Expand marketing efforts in top-performing cities while improving performance in low-sales regions.
 
-Skills Demonstrate:
-Power BI Dashboard Development
-Power Query (Data Transformation)
-Data Modeling (Star Schema)
-DAX Measure Development
-KPI Design & Performance Monitoring
-Sales Trend Analysis
-Product Category Analysis
-Interactive Dashboard Design
-Business Intelligence Reporting
-Executive Reporting
-Data Storytelling
+Q5. How does current performance compare with previous year?
 
-Conclusion:
-The Executive Dashboard delivers a comprehensive view of business performance by combining executive KPIs, sales trends, historical comparisons, and product category analysis
-within a single interactive report. It enables stakeholders to monitor organizational performance, identify business opportunities, and make informed strategic
-decisions using data-driven insights.
+Insight:
+
+Sales trends closely follow previous-year patterns, indicating recurring seasonality.
+
+Business Action:
+
+Use historical trends for sales forecasting and budgeting.
+
+Key KPIs:
+
+Total Sales
+Total Orders
+Total Customers
+Average Sales per Order
+Monthly Sales
+Previous Year Sales
+
+Key Business Insights:
+
+Generated 13.59M revenue.
+Processed 99K customer orders.
+Average order value reached 137.75.
+Seasonal trends influence monthly sales performance.
+A few product categories drive the majority of revenue.
+
+Business Recommendations:
+
+Focus on top-selling product categories.
+Launch seasonal marketing campaigns.
+Improve sales performance in underperforming cities.
+Monitor KPIs regularly using executive dashboards.
+
+Business Value:
+
+Provided executives with a centralized dashboard for monitoring business performance, enabling faster and more informed strategic decisions.
+
+
+
+
+
+
+
 
