@@ -81,3 +81,5 @@ Focus on top-selling product categories. Launch seasonal marketing campaigns. Im
 Business Value:
 
 Provided executives with a centralized dashboard for monitoring business performance, enabling faster and more informed strategic decisions.
+
+https://github.com/manamratnakumar/Olist-Brazilian-E-commerce-sales-Customer-Insights-Dashboard-/blob/main/Time%20Intelligence%20Dashboard.png
