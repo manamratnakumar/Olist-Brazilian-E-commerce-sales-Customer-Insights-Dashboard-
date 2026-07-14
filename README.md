@@ -170,3 +170,5 @@ Business Value:
 
 Delivered advanced Time Intelligence reporting that enables proactive monitoring of business performance, improves forecasting accuracy, and supports strategic planning through 
 historical and comparative sales analysis.
+
+https://github.com/manamratnakumar/Olist-Brazilian-E-commerce-sales-Customer-Insights-Dashboard-/blob/main/Customer%20%26%20product%20analysis%20Dashboard.png
