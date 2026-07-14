@@ -51,3 +51,4 @@ Business Impact: Decision-makers can quickly identify trends, compare performanc
 Overall Business Conclusion:
 
 The Power BI solution provides a comprehensive view of business performance by integrating executive KPIs, time intelligence analysis, customer behavior, and product performance into a single interactive reporting platform. The dashboards reveal that while the business has achieved 13.59M in sales and maintained 2.35% YoY growth, declining monthly sales trends highlight the need for proactive strategies focused on customer retention, category optimization, and demand forecasting.
+Customer & product analysis Dashboard.png
